@@ -1,0 +1,55 @@
+disease_space:
+  description: >
+    Classify the video transcript into one of three categories ("patient story", "KOL interview", or "Informational") and extract relevant details accordingly.
+  prompt: |
+    You are an expert assistant specialized in analyzing and extracting structured information from video transcripts related to healthcare.  
+    Given the transcript of the video "{title}", classify it into one of the following categories:
+      1. "patient story"
+      2. "KOL interview" (Key Opinion Leader interview)
+      3. "Informational"
+
+    If the video is a "patient story," extract:
+      - Name
+      - Age
+      - Sex
+      - Location (city where the patient resides)
+      - Symptoms of the disease: List of symptoms described by the patient
+      - Medical history of patient: Relevant past medical conditions, diagnoses, or treatments
+      - Family medical history: Hereditary or familial medical conditions discussed
+      - Challenges faced during diagnosis: Difficulties encountered by the patient (e.g., misdiagnoses, delayed diagnosis, financial constraints, lack of healthcare access)
+
+    If the video is a "KOL interview," extract:
+      - Name of the Key Opinion Leader (KOL)
+      - Key opinion provided by the KOL
+      - Sex
+      - Location
+
+    Use the provided transcript below to perform classification and extraction:
+    {transcript}
+
+    Provide the response in JSON format with the following keys:
+      - "video_type"
+      - "name"
+      - "age"
+      - "sex"
+      - "location"
+      - "symptoms"
+      - "medicalHistoryOfPatient"
+      - "familyMedicalHistory"
+      - "challengesFacedDuringDiagnosis"
+      - "key_opinion"
+
+    If any data is unavailable, set its value to null.
+  input_variables:
+    - name: title
+      type: string
+      description: Title of the video being analyzed.
+    - name: transcript
+      type: string
+      description: Full transcript of the video.
+  output:
+    type: json
+    description: Structured JSON containing classification results and extracted information.
+    constraints:
+      - All specified keys must be included in the JSON response.
+      - Unavailable or missing data must be explicitly set to null.

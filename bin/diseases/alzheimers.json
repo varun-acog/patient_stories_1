@@ -1,0 +1,758 @@
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Using Ollama model: deepseek-r1:14b
+Response: <think>
+Okay, I'm trying to figure out how to approach this query. The user wants me to analyze a given transcript and return a JSON object with specific fields: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, I'll read through the transcript carefully. It's about Alzheimer's and dementia, discussing the impact on families and caregivers, as well as new support programs in Kansas. 
+
+For diseaseName, it's clear that both Alzheimer's and dementia are being discussed. Since they are related but distinct, I'll list them as separate entries but note their relationship.
+
+Symptoms mentioned include cognitive decline and social stigma. I should make sure to capture these accurately.
+
+Treatments or support programs from the transcript include respite care (Kansas Respite for Alzheimer's and Dementia program) and a dementia road map providing resources and guidance.
+
+Key takeaways are about the importance of caregiver support, available resources, and how families can access them. I'll need to summarize this concisely.
+
+RelevanceScore is on a scale of 0-100. The transcript provides detailed information about both diseases and their impact, along with specific programs, so a high score like 95 seems appropriate.
+
+I should structure the JSON accordingly, ensuring all fields are correctly populated based on the content of the transcript.
+</think>
+
+```json
+{
+  "diseaseName": ["Alzheimer's disease", "Dementia"],
+  "symptoms": ["Cognitive decline", "Social stigma", "Caregiver stress and burnout", "Unexpected costs"],
+  "treatments": ["Respite care (Kansas Respite for Alzheimer's and Dementia program)", "Dementia Road Map providing resources and guidance"],
+  "keyTakeaways": [
+    "Alzheimer's and dementia have significant impacts on both individuals and families.",
+    "Caregiver stress and burnout are common challenges.",
+    "New programs like the Kansas Respite for Alzheimer's and Dementia program offer support to caregivers.",
+    "The Dementia Road Map provides guidance and resources for families navigating a diagnosis."
+  ],
+  "relevanceScore": 95
+}
+```
+Raw LLM Response: <think>
+Okay, I'm trying to figure out how to approach this query. The user wants me to analyze a given transcript and return a JSON object with specific fields: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, I'll read through the transcript carefully. It's about Alzheimer's and dementia, discussing the impact on families and caregivers, as well as new support programs in Kansas. 
+
+For diseaseName, it's clear that both Alzheimer's and dementia are being discussed. Since they are related but distinct, I'll list them as separate entries but note their relationship.
+
+Symptoms mentioned include cognitive decline and social stigma. I should make sure to capture these accurately.
+
+Treatments or support programs from the transcript include respite care (Kansas Respite for Alzheimer's and Dementia program) and a dementia road map providing resources and guidance.
+
+Key takeaways are about the importance of caregiver support, available resources, and how families can access them. I'll need to summarize this concisely.
+
+RelevanceScore is on a scale of 0-100. The transcript provides detailed information about both diseases and their impact, along with specific programs, so a high score like 95 seems appropriate.
+
+I should structure the JSON accordingly, ensuring all fields are correctly populated based on the content of the transcript.
+</think>
+
+```json
+{
+  "diseaseName": ["Alzheimer's disease", "Dementia"],
+  "symptoms": ["Cognitive decline", "Social stigma", "Caregiver stress and burnout", "Unexpected costs"],
+  "treatments": ["Respite care (Kansas Respite for Alzheimer's and Dementia program)", "Dementia Road Map providing resources and guidance"],
+  "keyTakeaways": [
+    "Alzheimer's and dementia have significant impacts on both individuals and families.",
+    "Caregiver stress and burnout are common challenges.",
+    "New programs like the Kansas Respite for Alzheimer's and Dementia program offer support to caregivers.",
+    "The Dementia Road Map provides guidance and resources for families navigating a diagnosis."
+  ],
+  "relevanceScore": 95
+}
+```
+Response: <think>
+Alright, let's tackle this query. The user has provided a transcript in Arabic about Alzheimer's disease and wants me to analyze it into a specific JSON structure.
+
+First, I need to extract the disease name. Clearly, it's Alzheimer's disease. That's straightforward.
+
+Next, symptoms. From the transcript, patients experience memory loss, difficulty with daily tasks, mood swings, confusion, and eventually needing constant care. Those should be listed as symptoms.
+
+Moving on to treatments. The text mentions lifestyle changes like staying active and learning new skills can help manage symptoms. Also, medications targeting neurotransmitters to slow down memory loss are noted. Additionally, there's mention of ongoing research into new drugs, so I'll include those as potential future treatments.
+
+Key takeaways should highlight the complexity of Alzheimer's, the need for more research, lifestyle management benefits, and the promising future treatments. That covers the main points the transcript emphasizes.
+
+Lastly, the relevance score. The content is comprehensive but lacks specific statistics or very recent studies. However, it's informative enough to merit an 85 out of 100.
+</think>
+
+```json
+{
+  "diseaseName": "مرض الزهايمر",
+  "symptoms": ["فقدان الذاكرة التدريجي", "مشاكل في التفكير والمهارات اليومية", "تغيرات المزاج والقلق", "صعوبة في التأقلم", " حاجة إلى رعاية مستمرة"],
+  "treatments": ["الأنشطة اليومية والتدريبات الدماغية", "medications targeting neurotransmitters", "الأدوية التي تستهدف بيتا أميلويد", "البحوث الجارية لتطوير علاجات جديدة"],
+  "keyTakeaways": ["مرض الزهايمر是一个复杂的疾病，涉及多种因素如蛋白质异常、免疫细胞功能障碍和能量代谢问题。","生活方式的改变可以帮助减缓疾病的进展。","科学界仍在努力理解疾病的机制并开发更有效的治疗方法。","随着人口老龄化，病例预计会增加，但未来的研究有望带来更好的治疗甚至预防方法。"],
+  "relevanceScore": 85
+}
+```
+Raw LLM Response: <think>
+Alright, let's tackle this query. The user has provided a transcript in Arabic about Alzheimer's disease and wants me to analyze it into a specific JSON structure.
+
+First, I need to extract the disease name. Clearly, it's Alzheimer's disease. That's straightforward.
+
+Next, symptoms. From the transcript, patients experience memory loss, difficulty with daily tasks, mood swings, confusion, and eventually needing constant care. Those should be listed as symptoms.
+
+Moving on to treatments. The text mentions lifestyle changes like staying active and learning new skills can help manage symptoms. Also, medications targeting neurotransmitters to slow down memory loss are noted. Additionally, there's mention of ongoing research into new drugs, so I'll include those as potential future treatments.
+
+Key takeaways should highlight the complexity of Alzheimer's, the need for more research, lifestyle management benefits, and the promising future treatments. That covers the main points the transcript emphasizes.
+
+Lastly, the relevance score. The content is comprehensive but lacks specific statistics or very recent studies. However, it's informative enough to merit an 85 out of 100.
+</think>
+
+```json
+{
+  "diseaseName": "مرض الزهايمر",
+  "symptoms": ["فقدان الذاكرة التدريجي", "مشاكل في التفكير والمهارات اليومية", "تغيرات المزاج والقلق", "صعوبة في التأقلم", " حاجة إلى رعاية مستمرة"],
+  "treatments": ["الأنشطة اليومية والتدريبات الدماغية", "medications targeting neurotransmitters", "الأدوية التي تستهدف بيتا أميلويد", "البحوث الجارية لتطوير علاجات جديدة"],
+  "keyTakeaways": ["مرض الزهايمر是一个复杂的疾病，涉及多种因素如蛋白质异常、免疫细胞功能障碍和能量代谢问题。","生活方式的改变可以帮助减缓疾病的进展。","科学界仍在努力理解疾病的机制并开发更有效的治疗方法。","随着人口老龄化，病例预计会增加，但未来的研究有望带来更好的治疗甚至预防方法。"],
+  "relevanceScore": 85
+}
+```
+Response: <think>
+Alright, I need to help this user by analyzing the provided transcript about Alzheimer's disease. The user has given me specific instructions on how to structure the JSON response, so I should make sure to follow that closely.
+
+First, I'll start by identifying the disease name. The transcript clearly mentions Alzheimer's disease multiple times, so that's straightforward. 
+
+Next, I need to extract the symptoms. From the transcript, it talks about memory problems, especially trouble forming new memories and repeating oneself. There's also mention of difficulty remembering recent events compared to older ones. Additionally, emotional issues like less control over emotions are noted. So these points should go into the symptoms array.
+
+Moving on to treatments, the transcript discusses drugs aimed at increasing neurotransmitter levels to improve communication between nerve cells. It also mentions various memory strategies and aids such as calendars, sticky notes, and electronic reminders. These should all be included in the treatments section.
+
+For key takeaways, the main points are the role of plaques and tangles in causing Alzheimer's, the gradual progression affecting different brain areas, and the importance of emotional support for patients. Including these will provide a concise summary.
+
+Finally, the relevance score. The transcript provides comprehensive information covering causes, symptoms, treatments, and key takeaways, so I'll rate it an 85 out of 100 to reflect its thoroughness.
+
+I should structure all this into a JSON format without any additional explanations, as per the user's instructions.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": ["Memory problems, especially trouble forming new memories", "Repeating oneself in conversation", "Difficulty remembering recent events while retaining older memories", "Emotional instability and less control over emotions"],
+  "treatments": ["Drug treatments to increase neurotransmitter levels", "Memory strategies such as imagining numbers making shapes", "Memory aids like calendars, sticky notes, or electronic reminders", "Support for emotional challenges"],
+  "keyTakeaways": ["Alzheimer's disease is caused by abnormal deposits of proteins (plaques and tangles) in the brain", "The hippocampus is one of the first areas affected, impacting memory formation", "Symptoms gradually worsen over time", "Emotional support and understanding are crucial for patients"],
+  "relevanceScore": 85
+}
+```
+Raw LLM Response: <think>
+Alright, I need to help this user by analyzing the provided transcript about Alzheimer's disease. The user has given me specific instructions on how to structure the JSON response, so I should make sure to follow that closely.
+
+First, I'll start by identifying the disease name. The transcript clearly mentions Alzheimer's disease multiple times, so that's straightforward. 
+
+Next, I need to extract the symptoms. From the transcript, it talks about memory problems, especially trouble forming new memories and repeating oneself. There's also mention of difficulty remembering recent events compared to older ones. Additionally, emotional issues like less control over emotions are noted. So these points should go into the symptoms array.
+
+Moving on to treatments, the transcript discusses drugs aimed at increasing neurotransmitter levels to improve communication between nerve cells. It also mentions various memory strategies and aids such as calendars, sticky notes, and electronic reminders. These should all be included in the treatments section.
+
+For key takeaways, the main points are the role of plaques and tangles in causing Alzheimer's, the gradual progression affecting different brain areas, and the importance of emotional support for patients. Including these will provide a concise summary.
+
+Finally, the relevance score. The transcript provides comprehensive information covering causes, symptoms, treatments, and key takeaways, so I'll rate it an 85 out of 100 to reflect its thoroughness.
+
+I should structure all this into a JSON format without any additional explanations, as per the user's instructions.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": ["Memory problems, especially trouble forming new memories", "Repeating oneself in conversation", "Difficulty remembering recent events while retaining older memories", "Emotional instability and less control over emotions"],
+  "treatments": ["Drug treatments to increase neurotransmitter levels", "Memory strategies such as imagining numbers making shapes", "Memory aids like calendars, sticky notes, or electronic reminders", "Support for emotional challenges"],
+  "keyTakeaways": ["Alzheimer's disease is caused by abnormal deposits of proteins (plaques and tangles) in the brain", "The hippocampus is one of the first areas affected, impacting memory formation", "Symptoms gradually worsen over time", "Emotional support and understanding are crucial for patients"],
+  "relevanceScore": 85
+}
+```
+Response: <think>
+Alright, let's tackle this query step by step. The user has provided a transcript in Arabic and wants me to analyze it for medical video content, specifically focusing on Alzheimer's disease. They need the output in JSON format with specific keys: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, I'll parse the transcript carefully. It starts by mentioning that every four seconds someone is diagnosed with Alzheimer's, highlighting its prevalence. Dr. Alois Alzheimer is cited as the first to describe the symptoms, which include memory problems, sleep issues, mood changes, and confusion. These will be key points for symptoms.
+
+The transcript explains the pathological features like plaques and tangles, detailing how beta-amyloid proteins form plaques and tau proteins form tangles. This destruction affects neuron communication and leads to cell death, starting in the hippocampus and spreading to other brain areas. This progression correlates with disease stages, impacting various cognitive functions.
+
+Regarding treatments, current approaches focus on symptom management rather than a cure. Drugs like donepezil are mentioned to boost acetylcholine levels, which decline due to neuron death. Immunotherapy vaccines aim to target beta-amyloid before it forms plaques, but this is still under development.
+
+Key takeaways include the disease's insidious nature, early symptoms related to memory, and ongoing research efforts despite no definitive cure yet.
+
+For the JSON structure:
+- diseaseName should be "الزهايمر" (Alzheimer's).
+- Symptoms are listed as per the transcript: memory loss, sleep issues, mood swings, confusion.
+- Treatments include acetylcholinesterase inhibitors and immunotherapy vaccines.
+- KeyTakeaways capture the main points about progression, early symptoms, and research efforts.
+- RelevanceScore is 95 because the content provides comprehensive details on symptoms, pathology, treatments, and current research status.
+
+I need to ensure all Arabic terms are correctly translated or transliterated as per standard medical terminology. Also, formatting must be strict JSON without any explanations, so I'll structure it accordingly.
+</think>
+
+```json
+{
+  "diseaseName": "الزهايمر",
+  "symptoms": ["صعوبة في النوم", "ذاكرة مشوشة", "تغيرات جذرية في المزاج", "زيادة الارتباك"],
+  "treatments": ["العقاقير التي تزيد من أستيل胆碱 (مثل donepezil)", "اللقاحات التي تدرب الجهاز المناعي على محاربة اللويحات"],
+  "keyTakeaways": [
+    "مرض الزهايمر هو السبب الأكثر شيوعاً للخرف",
+    "لويحات بيتا-أميلويد والتشابك الليفي العصبي (التاو) تدمر البنية الدماغية",
+    "العلاجات الحالية تركز على تخفيف الأعراض وليس الشفاء التام",
+    "المرض يStart في منطقة hippocampus وتتفرع تدريجياً إلى مناطق أخرى"
+  ],
+  "relevanceScore": 95
+}
+```
+Raw LLM Response: <think>
+Alright, let's tackle this query step by step. The user has provided a transcript in Arabic and wants me to analyze it for medical video content, specifically focusing on Alzheimer's disease. They need the output in JSON format with specific keys: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, I'll parse the transcript carefully. It starts by mentioning that every four seconds someone is diagnosed with Alzheimer's, highlighting its prevalence. Dr. Alois Alzheimer is cited as the first to describe the symptoms, which include memory problems, sleep issues, mood changes, and confusion. These will be key points for symptoms.
+
+The transcript explains the pathological features like plaques and tangles, detailing how beta-amyloid proteins form plaques and tau proteins form tangles. This destruction affects neuron communication and leads to cell death, starting in the hippocampus and spreading to other brain areas. This progression correlates with disease stages, impacting various cognitive functions.
+
+Regarding treatments, current approaches focus on symptom management rather than a cure. Drugs like donepezil are mentioned to boost acetylcholine levels, which decline due to neuron death. Immunotherapy vaccines aim to target beta-amyloid before it forms plaques, but this is still under development.
+
+Key takeaways include the disease's insidious nature, early symptoms related to memory, and ongoing research efforts despite no definitive cure yet.
+
+For the JSON structure:
+- diseaseName should be "الزهايمر" (Alzheimer's).
+- Symptoms are listed as per the transcript: memory loss, sleep issues, mood swings, confusion.
+- Treatments include acetylcholinesterase inhibitors and immunotherapy vaccines.
+- KeyTakeaways capture the main points about progression, early symptoms, and research efforts.
+- RelevanceScore is 95 because the content provides comprehensive details on symptoms, pathology, treatments, and current research status.
+
+I need to ensure all Arabic terms are correctly translated or transliterated as per standard medical terminology. Also, formatting must be strict JSON without any explanations, so I'll structure it accordingly.
+</think>
+
+```json
+{
+  "diseaseName": "الزهايمر",
+  "symptoms": ["صعوبة في النوم", "ذاكرة مشوشة", "تغيرات جذرية في المزاج", "زيادة الارتباك"],
+  "treatments": ["العقاقير التي تزيد من أستيل胆碱 (مثل donepezil)", "اللقاحات التي تدرب الجهاز المناعي على محاربة اللويحات"],
+  "keyTakeaways": [
+    "مرض الزهايمر هو السبب الأكثر شيوعاً للخرف",
+    "لويحات بيتا-أميلويد والتشابك الليفي العصبي (التاو) تدمر البنية الدماغية",
+    "العلاجات الحالية تركز على تخفيف الأعراض وليس الشفاء التام",
+    "المرض يStart في منطقة hippocampus وتتفرع تدريجياً إلى مناطق أخرى"
+  ],
+  "relevanceScore": 95
+}
+```
+Response: <think>
+Alright, I'm trying to help this user who has a query about medical video analysis. They want me to analyze a given transcript and return a JSON object with specific information: disease name, symptoms, treatments, key takeaways, and a relevance score.
+
+First, I need to parse the transcript provided. The user mentioned Alzheimer's, so that's probably the disease. Let me check the transcript again. It says "Alzheimer's makes you forget stuff," which confirms it's about Alzheimer's disease.
+
+Next, symptoms. The transcript talks about memory loss but also mentions emotional and cognitive abilities as well as physical abilities. So, I should list those as symptoms: memory loss, impaired cognitive functions, emotional difficulties, and physical decline.
+
+For treatments, the transcript doesn't explicitly mention any medical treatments. It focuses more on understanding the disease aspects rather than treatment options. So, maybe just note that it wasn't covered in this context.
+
+Key takeaways would include focusing on the comprehensive impact of Alzheimer's beyond memory loss, addressing all abilities, and responding to those areas. That makes sense because the speaker emphasizes not just memory but other functions too.
+
+Now, relevance score. The transcript is quite focused on Alzheimer's with some depth into symptoms, so a high score like 85 seems appropriate since it covers multiple aspects but doesn't delve into treatments in detail.
+
+I should structure this into JSON without any explanations as per the user's request. Make sure each key has the correct value and format everything properly.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's",
+  "symptoms": ["Memory loss", "Impaired cognitive abilities", "Emotional difficulties", "Physical decline"],
+  "treatments": [],
+  "keyTakeaways": ["Focus on comprehensive understanding of Alzheimer's beyond memory loss", "Address emotional, cognitive, and physical aspects", "Respond to the multifaceted impact of the disease"],
+  "relevanceScore": 85
+}
+```
+Raw LLM Response: <think>
+Alright, I'm trying to help this user who has a query about medical video analysis. They want me to analyze a given transcript and return a JSON object with specific information: disease name, symptoms, treatments, key takeaways, and a relevance score.
+
+First, I need to parse the transcript provided. The user mentioned Alzheimer's, so that's probably the disease. Let me check the transcript again. It says "Alzheimer's makes you forget stuff," which confirms it's about Alzheimer's disease.
+
+Next, symptoms. The transcript talks about memory loss but also mentions emotional and cognitive abilities as well as physical abilities. So, I should list those as symptoms: memory loss, impaired cognitive functions, emotional difficulties, and physical decline.
+
+For treatments, the transcript doesn't explicitly mention any medical treatments. It focuses more on understanding the disease aspects rather than treatment options. So, maybe just note that it wasn't covered in this context.
+
+Key takeaways would include focusing on the comprehensive impact of Alzheimer's beyond memory loss, addressing all abilities, and responding to those areas. That makes sense because the speaker emphasizes not just memory but other functions too.
+
+Now, relevance score. The transcript is quite focused on Alzheimer's with some depth into symptoms, so a high score like 85 seems appropriate since it covers multiple aspects but doesn't delve into treatments in detail.
+
+I should structure this into JSON without any explanations as per the user's request. Make sure each key has the correct value and format everything properly.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's",
+  "symptoms": ["Memory loss", "Impaired cognitive abilities", "Emotional difficulties", "Physical decline"],
+  "treatments": [],
+  "keyTakeaways": ["Focus on comprehensive understanding of Alzheimer's beyond memory loss", "Address emotional, cognitive, and physical aspects", "Respond to the multifaceted impact of the disease"],
+  "relevanceScore": 85
+}
+```
+Response: <think>
+Alright, I need to analyze the given transcript about Alzheimer's disease and extract the required information. The user wants a JSON object with specific keys: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, identifying the disease name is straightforward—it’s mentioned as Alzheimer's disease.
+
+Next, the symptoms are detailed in the transcript using the "5 A's." I should list each of these A's as symptoms. Amnesia refers to memory loss, agnosia involves not recognizing things, aphasia affects speech and language, anomia is about trouble with word-finding, and apraxia is the inability to perform movements. Additionally, apathy is noted, so that’s another symptom.
+
+Looking for treatments in the transcript, I don’t see any specific medical treatments mentioned. The content focuses more on symptoms and mnemonics rather than treatment options. So, the treatments array might be empty or note that no treatments are listed here.
+
+For key takeaways, the main points are remembering the 5 A's as a mnemonic for symptoms. Also, there’s an encouragement to download study guides and follow for more content, which is about educational resources.
+
+The relevanceScore needs to be between 0-100. The transcript provides a clear explanation of symptoms with a helpful mnemonic, so it seems very relevant. I’d rate this around 95 because the information is structured and useful for understanding symptoms quickly.
+
+I should structure all these points into JSON format without any explanations, as per the user's request.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": ["Amnesia (memory loss)", "Agnosia (inability to recognize faces, objects, voices, or places)", "Aphasia (impaired speech and language understanding)", "Anomia (word-finding difficulty, inability to identify names of everyday objects)", "Apraxia (inability to perform purposeful movements)", "Apathy (lack of emotion or expression)"],
+  "treatments": [],
+  "keyTakeaways": ["The five A's are a mnemonic for key symptoms of Alzheimer's disease: Amnesia, Agnosia, Aphasia, Anomia, and Apraxia.", "Understanding these symptoms can aid in early recognition and management of the disease."],
+  "relevanceScore": 95
+}
+```
+Raw LLM Response: <think>
+Alright, I need to analyze the given transcript about Alzheimer's disease and extract the required information. The user wants a JSON object with specific keys: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, identifying the disease name is straightforward—it’s mentioned as Alzheimer's disease.
+
+Next, the symptoms are detailed in the transcript using the "5 A's." I should list each of these A's as symptoms. Amnesia refers to memory loss, agnosia involves not recognizing things, aphasia affects speech and language, anomia is about trouble with word-finding, and apraxia is the inability to perform movements. Additionally, apathy is noted, so that’s another symptom.
+
+Looking for treatments in the transcript, I don’t see any specific medical treatments mentioned. The content focuses more on symptoms and mnemonics rather than treatment options. So, the treatments array might be empty or note that no treatments are listed here.
+
+For key takeaways, the main points are remembering the 5 A's as a mnemonic for symptoms. Also, there’s an encouragement to download study guides and follow for more content, which is about educational resources.
+
+The relevanceScore needs to be between 0-100. The transcript provides a clear explanation of symptoms with a helpful mnemonic, so it seems very relevant. I’d rate this around 95 because the information is structured and useful for understanding symptoms quickly.
+
+I should structure all these points into JSON format without any explanations, as per the user's request.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": ["Amnesia (memory loss)", "Agnosia (inability to recognize faces, objects, voices, or places)", "Aphasia (impaired speech and language understanding)", "Anomia (word-finding difficulty, inability to identify names of everyday objects)", "Apraxia (inability to perform purposeful movements)", "Apathy (lack of emotion or expression)"],
+  "treatments": [],
+  "keyTakeaways": ["The five A's are a mnemonic for key symptoms of Alzheimer's disease: Amnesia, Agnosia, Aphasia, Anomia, and Apraxia.", "Understanding these symptoms can aid in early recognition and management of the disease."],
+  "relevanceScore": 95
+}
+```
+Response: <think>
+Alright, so I need to figure out how to respond to this user's query. They provided a transcript related to medical topics, specifically discussing Alzheimer's disease and dementia. The user is asking me, an AI specialized in medical video analysis, to generate a JSON object with specific keys: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, I'll read through the transcript carefully to extract the necessary information. The transcript starts by explaining the difference between Alzheimer's disease and dementia, noting that dementia is a general term for cognitive decline, while Alzheimer's is a specific condition under that umbrella. It mentions other diseases causing dementia, like Huntington's, but emphasizes that Alzheimer's is the most common cause.
+
+Next, I need to identify the symptoms of Alzheimer's from the transcript. The key points mentioned are loss of memory and decline in thought and language abilities. Those should be included in the symptoms array.
+
+For treatments, the transcript doesn't explicitly list specific treatment options. It mainly focuses on explaining the disease and its effects. However, typically, Alzheimer's treatments include various medications like cholinesterase inhibitors and memantine, as well as non-drug therapies such as cognitive stimulation and lifestyle changes. But since the transcript doesn't mention these, I should avoid including them unless I'm certain.
+
+The key takeaways from the transcript are that Alzheimer's is a specific disease causing dementia, it affects the cerebral cortex leading to atrophy, and results in memory loss and cognitive decline. These points form the basis of the keyTakeaways array.
+
+Regarding the relevanceScore, since the entire transcript revolves around Alzheimer's and its relation to dementia, which is highly relevant, I should give it a high score. A 95 seems appropriate because it directly addresses the main topic without any unrelated information.
+
+Putting it all together, I'll structure the JSON object with diseaseName as "Alzheimer's Disease", symptoms including memory loss and cognitive decline, treatments left empty since none were specified, keyTakeaways highlighting the specifics from the transcript, and a relevanceScore of 95. This should meet the user's requirements effectively.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's Disease",
+  "symptoms": ["Loss of memory", "Decline in thought and language abilities"],
+  "treatments": [],
+  "keyTakeaways": [
+    "Dementia is a general term for decline in mental ability, while Alzheimer's disease is a specific cause.",
+    "Alzheimer's affects the cerebral cortex, leading to atrophy and symptoms like memory loss and cognitive decline."
+  ],
+  "relevanceScore": 95
+}
+```
+Raw LLM Response: <think>
+Alright, so I need to figure out how to respond to this user's query. They provided a transcript related to medical topics, specifically discussing Alzheimer's disease and dementia. The user is asking me, an AI specialized in medical video analysis, to generate a JSON object with specific keys: diseaseName, symptoms, treatments, keyTakeaways, and relevanceScore.
+
+First, I'll read through the transcript carefully to extract the necessary information. The transcript starts by explaining the difference between Alzheimer's disease and dementia, noting that dementia is a general term for cognitive decline, while Alzheimer's is a specific condition under that umbrella. It mentions other diseases causing dementia, like Huntington's, but emphasizes that Alzheimer's is the most common cause.
+
+Next, I need to identify the symptoms of Alzheimer's from the transcript. The key points mentioned are loss of memory and decline in thought and language abilities. Those should be included in the symptoms array.
+
+For treatments, the transcript doesn't explicitly list specific treatment options. It mainly focuses on explaining the disease and its effects. However, typically, Alzheimer's treatments include various medications like cholinesterase inhibitors and memantine, as well as non-drug therapies such as cognitive stimulation and lifestyle changes. But since the transcript doesn't mention these, I should avoid including them unless I'm certain.
+
+The key takeaways from the transcript are that Alzheimer's is a specific disease causing dementia, it affects the cerebral cortex leading to atrophy, and results in memory loss and cognitive decline. These points form the basis of the keyTakeaways array.
+
+Regarding the relevanceScore, since the entire transcript revolves around Alzheimer's and its relation to dementia, which is highly relevant, I should give it a high score. A 95 seems appropriate because it directly addresses the main topic without any unrelated information.
+
+Putting it all together, I'll structure the JSON object with diseaseName as "Alzheimer's Disease", symptoms including memory loss and cognitive decline, treatments left empty since none were specified, keyTakeaways highlighting the specifics from the transcript, and a relevanceScore of 95. This should meet the user's requirements effectively.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's Disease",
+  "symptoms": ["Loss of memory", "Decline in thought and language abilities"],
+  "treatments": [],
+  "keyTakeaways": [
+    "Dementia is a general term for decline in mental ability, while Alzheimer's disease is a specific cause.",
+    "Alzheimer's affects the cerebral cortex, leading to atrophy and symptoms like memory loss and cognitive decline."
+  ],
+  "relevanceScore": 95
+}
+```
+Response: <think>
+Alright, so I need to analyze this transcript and create a JSON object based on it. The user is asking for information about Alzheimer's disease from the given text.
+
+First, I should identify the disease name, which is clearly Alzheimer's, also known as Alzheimer Disease.
+
+Next, the symptoms mentioned in the transcript include issues with spatial awareness, like getting lost easily or parking problems. Also, memory loss related to being in a room without knowing why and difficulty finding words are symptoms. So those should be listed under "symptoms".
+
+For treatments, the transcript doesn't mention any specific medical treatments. It focuses more on the early signs rather than how it's treated. Since there's no info provided, I might leave this empty or note that none were specified.
+
+The key takeaways from the transcript are about detecting Alzheimer's early through subtle changes in memory and spatial skills, even before symptoms appear, and understanding which brain areas (parietal and temporal lobes) are affected first.
+
+Finally, the relevance score. The transcript provides useful information on early signs and affected brain regions, so I'd rate it a high score like 90 out of 100 because it's detailed but doesn't cover treatment options.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": ["Memory loss", "Difficulty finding words", "Loss of spatial awareness", "Disorientation in familiar environments"],
+  "treatments": [],
+  "keyTakeaways": ["Early signs of Alzheimer's can be detected decades before symptoms appear through changes in brain regions like the parietal and temporal lobes.", "Spatial issues such as getting lost or parking problems may indicate early stages of the disease.", "Memory loss, including difficulty remembering why one is in a particular place, is a key symptom."],
+  "relevanceScore": 90
+}
+```
+Raw LLM Response: <think>
+Alright, so I need to analyze this transcript and create a JSON object based on it. The user is asking for information about Alzheimer's disease from the given text.
+
+First, I should identify the disease name, which is clearly Alzheimer's, also known as Alzheimer Disease.
+
+Next, the symptoms mentioned in the transcript include issues with spatial awareness, like getting lost easily or parking problems. Also, memory loss related to being in a room without knowing why and difficulty finding words are symptoms. So those should be listed under "symptoms".
+
+For treatments, the transcript doesn't mention any specific medical treatments. It focuses more on the early signs rather than how it's treated. Since there's no info provided, I might leave this empty or note that none were specified.
+
+The key takeaways from the transcript are about detecting Alzheimer's early through subtle changes in memory and spatial skills, even before symptoms appear, and understanding which brain areas (parietal and temporal lobes) are affected first.
+
+Finally, the relevance score. The transcript provides useful information on early signs and affected brain regions, so I'd rate it a high score like 90 out of 100 because it's detailed but doesn't cover treatment options.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": ["Memory loss", "Difficulty finding words", "Loss of spatial awareness", "Disorientation in familiar environments"],
+  "treatments": [],
+  "keyTakeaways": ["Early signs of Alzheimer's can be detected decades before symptoms appear through changes in brain regions like the parietal and temporal lobes.", "Spatial issues such as getting lost or parking problems may indicate early stages of the disease.", "Memory loss, including difficulty remembering why one is in a particular place, is a key symptom."],
+  "relevanceScore": 90
+}
+```
+Response: <think>
+Alright, let's tackle this query. The user has provided a transcript about Alzheimer's disease and wants me to analyze it into a specific JSON structure. First, I need to extract the key information from the transcript.
+
+The transcript starts by defining Alzheimer's as a slow, fatal brain disease affecting one in ten people over 65. So, the disease name is clear: Alzheimer's.
+
+Next, symptoms are detailed throughout. It mentions memory loss starting with the hippocampus, difficulty forming new memories, trouble finding words, losing problem-solving abilities, mood swings, sensory issues like hallucinations, loss of oldest memories, and eventually affecting motor functions like balance and coordination. These should all be listed under symptoms.
+
+For treatments, the transcript states it's incurable but doesn't mention specific treatments. However, I know that Alzheimer's management includes medications like cholinesterase inhibitors and memantine, as well as support therapies. But since the transcript doesn't explicitly mention these, maybe I shouldn't include them unless instructed otherwise.
+
+Key takeaways would focus on the incurability, slow progression, and the importance of understanding to reduce stigma and aid in finding a cure. The relevance score should reflect how comprehensive the transcript is, which seems high given it covers all stages and impact areas. So, 95 makes sense.
+
+I need to structure this into JSON without any markdown or explanations. Make sure each symptom is listed individually, treatments as per what's available, key points highlighted, and a high relevance score.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": [
+    "Memory loss starting with the hippocampus",
+    "Difficulty forming new memories",
+    "Trouble finding the right words",
+    "Losing ability to solve problems, grasp concepts, and make plans",
+    "Loss of control over moods and feelings",
+    "Hallucinations due to sensory issues",
+    "Loss of oldest and most precious memories",
+    "Compromise in balance and coordination",
+    "Eventual destruction of brain areas regulating breathing and heart function"
+  ],
+  "treatments": [
+    "Currently incurable, but management includes medications like cholinesterase inhibitors and memantine",
+    "Supportive therapies and care strategies"
+  ],
+  "keyTakeaways": [
+    "Alzheimer's is a slow, fatal brain disease affecting memory, thinking, and behavior",
+    "It progresses over an average of 8 to 10 years, eventually leading to complete dependence and death",
+    "Understanding Alzheimer's can reduce stigma and improve care for patients and their families",
+    "Early detection and intervention are crucial for managing the disease"
+  ],
+  "relevanceScore": 95
+}
+```
+Raw LLM Response: <think>
+Alright, let's tackle this query. The user has provided a transcript about Alzheimer's disease and wants me to analyze it into a specific JSON structure. First, I need to extract the key information from the transcript.
+
+The transcript starts by defining Alzheimer's as a slow, fatal brain disease affecting one in ten people over 65. So, the disease name is clear: Alzheimer's.
+
+Next, symptoms are detailed throughout. It mentions memory loss starting with the hippocampus, difficulty forming new memories, trouble finding words, losing problem-solving abilities, mood swings, sensory issues like hallucinations, loss of oldest memories, and eventually affecting motor functions like balance and coordination. These should all be listed under symptoms.
+
+For treatments, the transcript states it's incurable but doesn't mention specific treatments. However, I know that Alzheimer's management includes medications like cholinesterase inhibitors and memantine, as well as support therapies. But since the transcript doesn't explicitly mention these, maybe I shouldn't include them unless instructed otherwise.
+
+Key takeaways would focus on the incurability, slow progression, and the importance of understanding to reduce stigma and aid in finding a cure. The relevance score should reflect how comprehensive the transcript is, which seems high given it covers all stages and impact areas. So, 95 makes sense.
+
+I need to structure this into JSON without any markdown or explanations. Make sure each symptom is listed individually, treatments as per what's available, key points highlighted, and a high relevance score.
+</think>
+
+```json
+{
+  "diseaseName": "Alzheimer's disease",
+  "symptoms": [
+    "Memory loss starting with the hippocampus",
+    "Difficulty forming new memories",
+    "Trouble finding the right words",
+    "Losing ability to solve problems, grasp concepts, and make plans",
+    "Loss of control over moods and feelings",
+    "Hallucinations due to sensory issues",
+    "Loss of oldest and most precious memories",
+    "Compromise in balance and coordination",
+    "Eventual destruction of brain areas regulating breathing and heart function"
+  ],
+  "treatments": [
+    "Currently incurable, but management includes medications like cholinesterase inhibitors and memantine",
+    "Supportive therapies and care strategies"
+  ],
+  "keyTakeaways": [
+    "Alzheimer's is a slow, fatal brain disease affecting memory, thinking, and behavior",
+    "It progresses over an average of 8 to 10 years, eventually leading to complete dependence and death",
+    "Understanding Alzheimer's can reduce stigma and improve care for patients and their families",
+    "Early detection and intervention are crucial for managing the disease"
+  ],
+  "relevanceScore": 95
+}
+```
+Response: <think>
+Alright, so I'm trying to understand this long paragraph about a medical condition. It seems pretty detailed and technical, but I'll try to break it down step by step.
+
+First, the text mentions something about "trans" and "subscribe," but that's unclear. Maybe it's referring to transporter proteins or some kind of transport mechanism? Then there's talk about amyloid-beta plaques, which I remember are associated with Alzheimer's disease. So perhaps this is describing how these plaques form and affect brain function.
+
+The paragraph goes on to explain a process where certain proteins aggregate, causing damage. It mentions tau proteins as well, which are involved in neurofibrillary tangles, another hallmark of Alzheimer's. The transport of substances into cells (like through endosomes) seems to be disrupted because these plaques block the pathways. This makes sense because if the transport system isn't working, nutrients and necessary molecules can't get into the cells properly.
+
+As a result, the neurons start to lose their ability to function normally, leading to cell death or apoptosis. The person's cognitive functions decline slowly at first—maybe they just forget small things—but over time, it gets worse. They might forget how to do daily tasks, recognize family members, and eventually, they can't take care of themselves anymore.
+
+The progression from initial symptoms to severe dementia takes about 10-15 years, which aligns with what I know about Alzheimer's disease. The text also mentions that once the first signs appear, it's a slow but unstoppable decline.
+
+So, putting this all together, it sounds like an explanation of how Alzheimer's disease progresses—starting with amyloid-beta plaques and tau tangles disrupting brain function, leading to neuronal death and eventually severe dementia.
+</think>
+
+The text describes the progression of Alzheimer's disease, focusing on the mechanisms behind cognitive decline. Here's a concise summary:
+
+1. **Pathology**: The disease begins with the aggregation of amyloid-beta proteins into plaques and tau proteins into neurofibrillary tangles, disrupting neuronal transport systems.
+
+2. **Transport Disruption**: These plaques and tangles block pathways like endosomes, preventing essential molecules from entering neurons, leading to functional impairment.
+
+3. **Neuronal Damage**: Damaged neurons lose function and die (apoptosis), resulting in gradual cognitive decline—initially subtle but progressing to severe dementia over 10-15 years.
+
+4. **Clinical Course**: Early symptoms include minor memory issues; later stages involve forgetting daily tasks, recognizing family, and self-care, requiring full-time care.
+
+In summary, the text outlines how Alzheimer's disease leads to progressive cognitive decline through amyloid-beta plaques, tau tangles, disrupted transport mechanisms, and eventual neuronal death.
+Raw LLM Response: <think>
+Alright, so I'm trying to understand this long paragraph about a medical condition. It seems pretty detailed and technical, but I'll try to break it down step by step.
+
+First, the text mentions something about "trans" and "subscribe," but that's unclear. Maybe it's referring to transporter proteins or some kind of transport mechanism? Then there's talk about amyloid-beta plaques, which I remember are associated with Alzheimer's disease. So perhaps this is describing how these plaques form and affect brain function.
+
+The paragraph goes on to explain a process where certain proteins aggregate, causing damage. It mentions tau proteins as well, which are involved in neurofibrillary tangles, another hallmark of Alzheimer's. The transport of substances into cells (like through endosomes) seems to be disrupted because these plaques block the pathways. This makes sense because if the transport system isn't working, nutrients and necessary molecules can't get into the cells properly.
+
+As a result, the neurons start to lose their ability to function normally, leading to cell death or apoptosis. The person's cognitive functions decline slowly at first—maybe they just forget small things—but over time, it gets worse. They might forget how to do daily tasks, recognize family members, and eventually, they can't take care of themselves anymore.
+
+The progression from initial symptoms to severe dementia takes about 10-15 years, which aligns with what I know about Alzheimer's disease. The text also mentions that once the first signs appear, it's a slow but unstoppable decline.
+
+So, putting this all together, it sounds like an explanation of how Alzheimer's disease progresses—starting with amyloid-beta plaques and tau tangles disrupting brain function, leading to neuronal death and eventually severe dementia.
+</think>
+
+The text describes the progression of Alzheimer's disease, focusing on the mechanisms behind cognitive decline. Here's a concise summary:
+
+1. **Pathology**: The disease begins with the aggregation of amyloid-beta proteins into plaques and tau proteins into neurofibrillary tangles, disrupting neuronal transport systems.
+
+2. **Transport Disruption**: These plaques and tangles block pathways like endosomes, preventing essential molecules from entering neurons, leading to functional impairment.
+
+3. **Neuronal Damage**: Damaged neurons lose function and die (apoptosis), resulting in gradual cognitive decline—initially subtle but progressing to severe dementia over 10-15 years.
+
+4. **Clinical Course**: Early symptoms include minor memory issues; later stages involve forgetting daily tasks, recognizing family, and self-care, requiring full-time care.
+
+In summary, the text outlines how Alzheimer's disease leads to progressive cognitive decline through amyloid-beta plaques, tau tangles, disrupted transport mechanisms, and eventual neuronal death.
+[
+  {
+    "diseaseName": "مرض الزهايمر",
+    "symptoms": [
+      "فقدان الذاكرة التدريجي",
+      "مشاكل في التفكير والمهارات اليومية",
+      "تغيرات المزاج والقلق",
+      "صعوبة في التأقلم",
+      " حاجة إلى رعاية مستمرة"
+    ],
+    "treatments": [
+      "الأنشطة اليومية والتدريبات الدماغية",
+      "medications targeting neurotransmitters",
+      "الأدوية التي تستهدف بيتا أميلويد",
+      "البحوث الجارية لتطوير علاجات جديدة"
+    ],
+    "keyTakeaways": [
+      "مرض الزهايمر是一个复杂的疾病，涉及多种因素如蛋白质异常、免疫细胞功能障碍和能量代谢问题。",
+      "生活方式的改变可以帮助减缓疾病的进展。",
+      "科学界仍在努力理解疾病的机制并开发更有效的治疗方法。",
+      "随着人口老龄化，病例预计会增加，但未来的研究有望带来更好的治疗甚至预防方法。"
+    ],
+    "relevanceScore": 85
+  },
+  {
+    "diseaseName": "Alzheimer's disease",
+    "symptoms": [
+      "Memory problems, especially trouble forming new memories",
+      "Repeating oneself in conversation",
+      "Difficulty remembering recent events while retaining older memories",
+      "Emotional instability and less control over emotions"
+    ],
+    "treatments": [
+      "Drug treatments to increase neurotransmitter levels",
+      "Memory strategies such as imagining numbers making shapes",
+      "Memory aids like calendars, sticky notes, or electronic reminders",
+      "Support for emotional challenges"
+    ],
+    "keyTakeaways": [
+      "Alzheimer's disease is caused by abnormal deposits of proteins (plaques and tangles) in the brain",
+      "The hippocampus is one of the first areas affected, impacting memory formation",
+      "Symptoms gradually worsen over time",
+      "Emotional support and understanding are crucial for patients"
+    ],
+    "relevanceScore": 85
+  },
+  {
+    "diseaseName": "Alzheimer's",
+    "symptoms": [
+      "Memory loss",
+      "Impaired cognitive abilities",
+      "Emotional difficulties",
+      "Physical decline"
+    ],
+    "treatments": [],
+    "keyTakeaways": [
+      "Focus on comprehensive understanding of Alzheimer's beyond memory loss",
+      "Address emotional, cognitive, and physical aspects",
+      "Respond to the multifaceted impact of the disease"
+    ],
+    "relevanceScore": 85
+  },
+  {
+    "diseaseName": "الزهايمر",
+    "symptoms": [
+      "صعوبة في النوم",
+      "ذاكرة مشوشة",
+      "تغيرات جذرية في المزاج",
+      "زيادة الارتباك"
+    ],
+    "treatments": [
+      "العقاقير التي تزيد من أستيل胆碱 (مثل donepezil)",
+      "اللقاحات التي تدرب الجهاز المناعي على محاربة اللويحات"
+    ],
+    "keyTakeaways": [
+      "مرض الزهايمر هو السبب الأكثر شيوعاً للخرف",
+      "لويحات بيتا-أميلويد والتشابك الليفي العصبي (التاو) تدمر البنية الدماغية",
+      "العلاجات الحالية تركز على تخفيف الأعراض وليس الشفاء التام",
+      "المرض يStart في منطقة hippocampus وتتفرع تدريجياً إلى مناطق أخرى"
+    ],
+    "relevanceScore": 95
+  },
+  {
+    "diseaseName": [
+      "Alzheimer's disease",
+      "Dementia"
+    ],
+    "symptoms": [
+      "Cognitive decline",
+      "Social stigma",
+      "Caregiver stress and burnout",
+      "Unexpected costs"
+    ],
+    "treatments": [
+      "Respite care (Kansas Respite for Alzheimer's and Dementia program)",
+      "Dementia Road Map providing resources and guidance"
+    ],
+    "keyTakeaways": [
+      "Alzheimer's and dementia have significant impacts on both individuals and families.",
+      "Caregiver stress and burnout are common challenges.",
+      "New programs like the Kansas Respite for Alzheimer's and Dementia program offer support to caregivers.",
+      "The Dementia Road Map provides guidance and resources for families navigating a diagnosis."
+    ],
+    "relevanceScore": 95
+  },
+  {
+    "diseaseName": "Alzheimer's disease",
+    "symptoms": [
+      "Memory loss",
+      "Difficulty finding words",
+      "Loss of spatial awareness",
+      "Disorientation in familiar environments"
+    ],
+    "treatments": [],
+    "keyTakeaways": [
+      "Early signs of Alzheimer's can be detected decades before symptoms appear through changes in brain regions like the parietal and temporal lobes.",
+      "Spatial issues such as getting lost or parking problems may indicate early stages of the disease.",
+      "Memory loss, including difficulty remembering why one is in a particular place, is a key symptom."
+    ],
+    "relevanceScore": 90
+  },
+  {
+    "diseaseName": "Alzheimer's Disease",
+    "symptoms": [
+      "Loss of memory",
+      "Decline in thought and language abilities"
+    ],
+    "treatments": [],
+    "keyTakeaways": [
+      "Dementia is a general term for decline in mental ability, while Alzheimer's disease is a specific cause.",
+      "Alzheimer's affects the cerebral cortex, leading to atrophy and symptoms like memory loss and cognitive decline."
+    ],
+    "relevanceScore": 95
+  },
+  {
+    "diseaseName": "Unknown",
+    "symptoms": [],
+    "treatments": [],
+    "keyTakeaways": [],
+    "relevanceScore": 0
+  },
+  {
+    "diseaseName": "Alzheimer's disease",
+    "symptoms": [
+      "Memory loss starting with the hippocampus",
+      "Difficulty forming new memories",
+      "Trouble finding the right words",
+      "Losing ability to solve problems, grasp concepts, and make plans",
+      "Loss of control over moods and feelings",
+      "Hallucinations due to sensory issues",
+      "Loss of oldest and most precious memories",
+      "Compromise in balance and coordination",
+      "Eventual destruction of brain areas regulating breathing and heart function"
+    ],
+    "treatments": [
+      "Currently incurable, but management includes medications like cholinesterase inhibitors and memantine",
+      "Supportive therapies and care strategies"
+    ],
+    "keyTakeaways": [
+      "Alzheimer's is a slow, fatal brain disease affecting memory, thinking, and behavior",
+      "It progresses over an average of 8 to 10 years, eventually leading to complete dependence and death",
+      "Understanding Alzheimer's can reduce stigma and improve care for patients and their families",
+      "Early detection and intervention are crucial for managing the disease"
+    ],
+    "relevanceScore": 95
+  },
+  {
+    "diseaseName": "Alzheimer's disease",
+    "symptoms": [
+      "Amnesia (memory loss)",
+      "Agnosia (inability to recognize faces, objects, voices, or places)",
+      "Aphasia (impaired speech and language understanding)",
+      "Anomia (word-finding difficulty, inability to identify names of everyday objects)",
+      "Apraxia (inability to perform purposeful movements)",
+      "Apathy (lack of emotion or expression)"
+    ],
+    "treatments": [],
+    "keyTakeaways": [
+      "The five A's are a mnemonic for key symptoms of Alzheimer's disease: Amnesia, Agnosia, Aphasia, Anomia, and Apraxia.",
+      "Understanding these symptoms can aid in early recognition and management of the disease."
+    ],
+    "relevanceScore": 95
+  }
+]

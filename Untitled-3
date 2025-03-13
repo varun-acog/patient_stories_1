@@ -1,0 +1,5 @@
+-- First allow null for published_date if not already done
+ALTER TABLE videos ALTER COLUMN published_date DROP NOT NULL;
+
+-- Then add the duration_seconds column
+ALTER TABLE videos ADD COLUMN IF NOT EXISTS duration_seconds INTEGER;

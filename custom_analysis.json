@@ -1,0 +1,15 @@
+[
+  {
+    "videoId": "custom123",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  }
+]
