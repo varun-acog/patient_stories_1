@@ -209,3 +209,4 @@ docker exec -it video_analysis-postgres-1 psql -U postgres -d video_analysis_db 
 
 # patient_stories_1
 # patient_stories_1
+# patient_stories_1
