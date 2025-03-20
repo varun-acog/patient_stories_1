@@ -1,0 +1,429 @@
+[
+  {
+    "videoId": "81h_SNQkSyc",
+    "video_type": "patient story",
+    "name": "Gracie Boudreaux",
+    "age": 17,
+    "sex": "female",
+    "location": "South Lafourche",
+    "symptoms": [
+      "balance problems",
+      "unbalanced",
+      "worsening heart disease"
+    ],
+    "medicalHistoryOfPatient": [
+      "hypertrophic cardiomyopathy",
+      "Friedreich's ataxia"
+    ],
+    "familyMedicalHistory": [
+      "Friedreich's ataxia more prevalent among Cajun population"
+    ],
+    "challengesFacedDuringDiagnosis": [
+      "several doctor visits",
+      "discovered through a blood test"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "4SnxGeYJzwU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "DBnpZZT6ntw",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "yz0QWM5hZzg",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "SOvNfbvvmJQ",
+    "video_type": "patient story",
+    "name": "Kelly",
+    "age": null,
+    "sex": null,
+    "location": "Columbus",
+    "symptoms": [
+      "Difficulty walking",
+      "Imbalance"
+    ],
+    "medicalHistoryOfPatient": [
+      "Friedreich's ataxia"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "tCqaIJuz7iM",
+    "video_type": "patient story",
+    "name": "Jade",
+    "age": null,
+    "sex": "Female",
+    "location": null,
+    "symptoms": [
+      "tired",
+      "dizzy",
+      "ataxia",
+      "speech difficulties"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with ataxia"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "initial lack of understanding of ataxia",
+      "initial panic and fear thinking about future implications",
+      "eventual need to find support and information online"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "aFn1jVodGgU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "WjAH0aXhK_0",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "_hUBHrPbmMk",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "ZgFonhStzkU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "XbyJyYtDZ-c",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "xTXHGyWL6fQ",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "rtdW4KSIc2I",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "Gi5k0wo2mT0",
+    "video_type": "patient story",
+    "name": "Heidi Schmid",
+    "age": 57,
+    "sex": null,
+    "location": "San Clemente",
+    "symptoms": [
+      "debilitating disease"
+    ],
+    "medicalHistoryOfPatient": [
+      "developed a debilitating disease in her teens"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "felt isolated",
+      "high risk individual"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "zRNlgSI3_Jk",
+    "video_type": "KOL interview",
+    "name": "Dr. Fern Shin",
+    "age": null,
+    "sex": null,
+    "location": "New Orleans, Louisiana",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Dr. Fern Shin emphasizes the importance of genetic testing for Acadian families with congenital hearing loss to provide diagnosis, access educational resources, and understand the chances of having other children with hearing loss."
+  },
+  {
+    "videoId": "ZZMJPjIZ_uc",
+    "video_type": "KOL interview",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "The brain is highly plastic and has an extraordinary capacity to adapt and reorganize itself, even in the presence of disease or injury. Understanding and harnessing brain plasticity can lead to improvements in managing conditions like Alzheimer's, stroke, and other neurological issues. Approaches such as gene therapy and lifestyle changes can enhance the brain's resilience and functionality."
+  },
+  {
+    "videoId": "ffZ7OodNDps",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "jf8WU4QNl_M",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "2yc5XWKOsbY",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "weakness of muscles used in speech",
+      "slowed or slurred speech"
+    ],
+    "medicalHistoryOfPatient": [
+      "poor speech since childhood",
+      "multiple speech therapy sessions",
+      "two operations on the nose"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "poor and inconsistent speech therapy during school",
+      "never had a consistent speech therapist",
+      "surgery did not fully resolve speech issues"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "phN5HGn4ZeY",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "WwMD0TF-W4U",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "2LJe6tWywXM",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "QgYOzGJeadU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "8l-Mc43OGTE",
+    "video_type": "patient story",
+    "name": "Hillary",
+    "age": 27,
+    "sex": "female",
+    "location": "Manhattan, Kansas",
+    "symptoms": [
+      "cerebral palsy"
+    ],
+    "medicalHistoryOfPatient": [
+      "cerebral palsy"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "4fR8yai3hb4",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "VKulGe7qUQ0",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "ClnVCkk8New",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "p5lDq2nrcUM",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "LkxrSXLg1KU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  }
+]

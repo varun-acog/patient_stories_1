@@ -1,0 +1,1883 @@
+[
+  {
+    "videoId": "wdK_eHjKQRE",
+    "video_type": "patient story",
+    "name": "Frankie Perezola",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "difficulty walking",
+      "clumsiness",
+      "impaired speech",
+      "difficulty with balance",
+      "absence of lower limb reflexes",
+      "distal weakness in hands and feet",
+      "dizziness",
+      "scoliosis",
+      "slow or slurred speech"
+    ],
+    "medicalHistoryOfPatient": [
+      "struggled going up stairs",
+      "feeling harder effort in walking",
+      "difficulties bringing groceries up",
+      "fear of falling during graduation"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "symptoms are generic",
+      "symptoms like dizziness were misinterpreted",
+      "took four years to get a diagnosis",
+      "required multiple opinions and meetings with neurologists"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "53ULmr5bSIQ",
+    "video_type": "KOL interview",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "FA is a classic rare disease often misdiagnosed and associated with neurologic and cardiac symptoms due to its mitochondrial nature, impacting energy production mainly in the heart and brain. The progression is typically neurologic disease followed by cardiac disease."
+  },
+  {
+    "videoId": "NuphVdYuKDw",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "PjC7EPZDRhA",
+    "video_type": "KOL interview",
+    "name": "Dr. David Lynch",
+    "age": null,
+    "sex": null,
+    "location": "Children's Hospital of Philadelphia",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Understanding new directions in Friedrich Ataxia, involving genetic basis, new treatments, multidisciplinary care, and ongoing research."
+  },
+  {
+    "videoId": "XGfEA-K31Bg",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": "Philadelphia",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "JJvAehi8I0s",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "81h_SNQkSyc",
+    "video_type": "patient story",
+    "name": "Gracie Boudreaux",
+    "age": 17,
+    "sex": null,
+    "location": "South Lafourche",
+    "symptoms": [
+      "unbalanced",
+      "issues with balance",
+      "hypertrophic cardiomyopathy"
+    ],
+    "medicalHistoryOfPatient": [
+      "hypertrophic cardiomyopathy",
+      "Friedreich's ataxia"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "Initial diagnosis of hypertrophic cardiomyopathy at age nine and later diagnosis of Friedreich's ataxia after further doctor visits and blood tests."
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "uGujywyzfpU",
+    "video_type": "patient story",
+    "name": "Kelly Barrett",
+    "age": 18,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "clumsiness",
+      "balance coordination issues",
+      "use of mobility aid"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with FA (Friedreich's Ataxia)"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "trauma",
+      "grieving new diagnosis"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "-_xhciNxdr8",
+    "video_type": "KOL interview",
+    "name": "Dr. Subramony",
+    "age": null,
+    "sex": null,
+    "location": "University of Florida Health, Gainesville, Florida",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Dr. Subramony provided insights into the research and treatment landscape regarding Friedreich's ataxia, discussing the challenges and strategies for therapy such as gene therapy and oxidative stress management."
+  },
+  {
+    "videoId": "VD7v6Wjj0Gk",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "vKgXs4BwxvA",
+    "video_type": "patient story",
+    "name": "Sydney Dubray",
+    "age": 21,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "trouble walking",
+      "trouble going up and down the stairs",
+      "bad handwriting",
+      "trouble running",
+      "scoliosis",
+      "lack of feeling in legs",
+      "slow speech",
+      "breathing problems"
+    ],
+    "medicalHistoryOfPatient": [
+      "Friedreich's Ataxia (FA)",
+      "Graves' disease",
+      "severe scoliosis"
+    ],
+    "familyMedicalHistory": [
+      "older brother with Friedreich's Ataxia",
+      "second cousin with Friedreich's Ataxia"
+    ],
+    "challengesFacedDuringDiagnosis": [
+      "Parents' denial and delay in accepting symptoms",
+      "social isolation during school years"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "p0trO3rTv_c",
+    "video_type": "patient story",
+    "name": null,
+    "age": 18,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "clumsy",
+      "uncinated",
+      "dependent on mobility aids"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with a rare disease called frer Axia"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "took years to finally be diagnosed"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "rOuZm11BBig",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "NWTDgxSzK-U",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "hn4S4WBzYnk",
+    "video_type": "patient story",
+    "name": "Kate",
+    "age": 19,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "loss of balance and coordination",
+      "fatigue",
+      "slurred speech",
+      "hearing loss",
+      "vision loss",
+      "scoliosis",
+      "serious heart condition"
+    ],
+    "medicalHistoryOfPatient": [
+      "Diagnosed with Friedreich's ataxia in May 2016 at age 12"
+    ],
+    "familyMedicalHistory": [
+      "Both parents carry the inactive gene for Friedreich's ataxia"
+    ],
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "Gik-ne2kQM8",
+    "video_type": "patient story",
+    "name": "Morgan Talovich",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "arPoVUVrN64",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "87fMVotQHno",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "qE5rv7uydJA",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "tyiupsmNxHc",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "Y4EsgrAgKRk",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "aFxRBPjxLIg",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "WUxpRLa00ec",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "xBREv9Mq9zg",
+    "video_type": "KOL interview",
+    "name": "Dr. Dave Lynch",
+    "age": null,
+    "sex": null,
+    "location": "Children's Hospital of Philadelphia",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Collaboration is essential in FA research, emphasizing the importance of international collaboration and sample sharing to expand studies and improve outcomes."
+  },
+  {
+    "videoId": "V3wpXhVnbQ8",
+    "video_type": "patient story",
+    "name": "Helen Kerney",
+    "age": 34,
+    "sex": null,
+    "location": "Dublin, Ireland",
+    "symptoms": [
+      "balance issues",
+      "gait problems"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with Friedreich's ataxia at age 13",
+      "scoliosis surgery",
+      "equine therapy for better control of body"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "diagnosis related delays",
+      "difficulty with accessing timely treatment",
+      "delayed access to new treatment in Ireland"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "klqa2QHkLVU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "HXoCQMei1ik",
+    "video_type": "patient story",
+    "name": "Kendall Harvey",
+    "age": null,
+    "sex": "Female",
+    "location": null,
+    "symptoms": [
+      "balance issues"
+    ],
+    "medicalHistoryOfPatient": [
+      "Friedreich's ataxia"
+    ],
+    "familyMedicalHistory": [
+      "Inheriting Friedreich's ataxia genes from both parents"
+    ],
+    "challengesFacedDuringDiagnosis": [
+      "Initial belief that having children was out of the question",
+      "Requiring a specialist during pregnancy",
+      "Fear of falling due to balance issues during pregnancy"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "37y_iCmLxQw",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": [
+      "FA (Friedreich's Ataxia)"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "J_ebIs97bto",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "YCJlv2KBjpk",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "phhn1VhDO6g",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "IdaoPWwmQnk",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "6OjEwUcwnY8",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "qfGO-yDaWRw",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "UNBQV4734pI",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "QoH-s0JXJIQ",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "QbCKHKmx0_4",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "6AZzizC3DTQ",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "Balance issues",
+      "Difficulties in walking"
+    ],
+    "medicalHistoryOfPatient": [
+      "Friedreich's ataxia",
+      "Crohn's disease"
+    ],
+    "familyMedicalHistory": [
+      "Sister Chelsea also has Friedreich's ataxia",
+      "Sister Carly is a carrier",
+      "Son Sean has Friedreich's ataxia"
+    ],
+    "challengesFacedDuringDiagnosis": [
+      "Fear and avoidance of researching disease due to scary symptoms found online",
+      "Delayed acceptance of diagnosis",
+      "Family distress upon diagnosis"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "slZLR9JPyZw",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "cYtmIcelOWo",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "6wfu0ALUmp4",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "nmISCcbN3W0",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "HVzL8y32WC0",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "RxaU8wuwYa0",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "FCfzN2TIjTc",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "0qemgXnzqtQ",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "GdDt0Uz_BSI",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "5TjICEJymjU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "x7Gt8T6Yc8Q",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "-VJpahw0-JI",
+    "video_type": "patient story",
+    "name": "Kendall Harvey",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [],
+    "medicalHistoryOfPatient": [
+      "Friedreich's Ataxia"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "h0rmXe2S-ts",
+    "video_type": "patient story",
+    "name": "Kelly",
+    "age": null,
+    "sex": null,
+    "location": "Cleveland",
+    "symptoms": [],
+    "medicalHistoryOfPatient": [
+      "rare neuromuscular debilitating degenerative disorder called Buddhist ataxia"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "k4_gkA_Duz8",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "lPM5U21TO3Q",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "4E5PjF0In_w",
+    "video_type": "patient story",
+    "name": "not provided",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [],
+    "medicalHistoryOfPatient": [],
+    "familyMedicalHistory": [],
+    "challengesFacedDuringDiagnosis": [],
+    "key_opinion": null
+  },
+  {
+    "videoId": "CMTpLbcCqPk",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "Z-C8-Exb8t8",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "Wi13L9eS5cM",
+    "video_type": "patient story",
+    "name": "Kendall Harvey",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "loss of ability to jog"
+    ],
+    "medicalHistoryOfPatient": [
+      "Friedrichs ataxia (FA)"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "A7PP_aSRD4w",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "G-fmt9VokoE",
+    "video_type": "patient story",
+    "name": "Kendall Harvey",
+    "age": 25,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "uncoordinated motor function",
+      "gait disturbances",
+      "scoliosis",
+      "diabetes",
+      "slurred speech",
+      "eventual heart failure"
+    ],
+    "medicalHistoryOfPatient": [
+      "life-shortening degenerative genetic disease"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "scared",
+      "overwhelmed",
+      "no case managers for FA",
+      "difficulty finding knowledgeable doctors",
+      "gathering credible information"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "0ugJm29S94A",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "JY3OPwBEU8w",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "poSWPxLH2GM",
+    "video_type": "patient story",
+    "name": "Elisa",
+    "age": null,
+    "sex": "Female",
+    "location": "Tacoma",
+    "symptoms": [
+      "clumsiness",
+      "loss of mobility",
+      "fatigue"
+    ],
+    "medicalHistoryOfPatient": [
+      "Friedreich's ataxia diagnosis",
+      "wheelchair-bound",
+      "progressive disease affecting muscles and nerves"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "Progressive disease with no prior warning",
+      "Multiple tests over two years",
+      "Diagnosis of a rare disorder",
+      "Struggle with educational system and need to enforce a 504 plan",
+      "Bullying and social isolation at school"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "M2g90upH1Fs",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "difficulty seeing",
+      "tripping"
+    ],
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "_n9osEh7558",
+    "video_type": "patient story",
+    "name": null,
+    "age": "seven or eight years old",
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "stumbling a lot",
+      "falling",
+      "wasn't walking as well"
+    ],
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "delayed diagnosis"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "oS3vV7oRPnI",
+    "video_type": "patient story",
+    "name": "Molly",
+    "age": 24,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "trouble walking",
+      "scoliosis",
+      "cardiomyopathy",
+      "slurred speech",
+      "hearing problems",
+      "eye problems"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with Friedreich's ataxia at 10",
+      "sinus infection and heart murmur",
+      "muscular dystrophy diagnosis",
+      "frequent foot fractures"
+    ],
+    "familyMedicalHistory": [
+      "Molly inherited FA from her parents",
+      "25% chance of getting FA as well as being a carrier",
+      "50% chance of being a carrier",
+      "family history shows no prior cases of FA"
+    ],
+    "challengesFacedDuringDiagnosis": [
+      "misdiagnosed initially with a sinus infection",
+      "emotional difficulty with early use of mobility assistance",
+      "initial disbelief of diagnosed condition"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "6gfuFUTQzNg",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "Ox9yFMhb0ho",
+    "video_type": "KOL interview",
+    "name": "Stephanie Shirky",
+    "age": null,
+    "sex": null,
+    "location": "University of California, San Diego",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Stephanie Shirky is focused on the stem cell gene therapy program for Friedreich's ataxia."
+  },
+  {
+    "videoId": "EnM3bZxmcnI",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "VmypNFcqYAY",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "EcO3XvmH7bU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "XA160D80Lfk",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "PXrJOCnsv_w",
+    "video_type": "KOL interview",
+    "name": "Ron Bartek",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Belief in the power of research and the collective effort to find a way to address Friedrich's ataxia."
+  },
+  {
+    "videoId": "fEdFTEhu9k8",
+    "video_type": "KOL interview",
+    "name": "Dr. Susan Pearlman",
+    "age": null,
+    "sex": null,
+    "location": "Los Angeles",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Dr. Susan Pearlman, as a Key Opinion Leader, discusses the importance of maintaining an ongoing relationship with a neurologist, even if there is no cure for conditions like SCA3. She emphasizes the value of accessing clinical trials, networking for medical resources, and the potential benefits of rehabilitation and keeping abreast of upcoming treatments."
+  },
+  {
+    "videoId": "5Kkh02EvJMs",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "hbbr-aY0yV4",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "TZkrM_gM08A",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "6uRQ1jHRpFI",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "LfCN-hWg_NU",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "EZsOVRKrvr0",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "J1wubgsE2U8",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "j1lpvF9dHvs",
+    "video_type": "KOL interview",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "_yq0AO_Lzvk",
+    "video_type": "KOL interview",
+    "name": "Dr. Vy Ngo",
+    "age": null,
+    "sex": null,
+    "location": "Western University",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Development of synergistic therapies based on a combination of Nrf2 activators may have therapeutic benefits to patients with Friedreich's ataxia. Research includes reducing oxidative stress, improving mitochondrial function, and exploring other treatment methodologies like frataxin replacement and gene therapies."
+  },
+  {
+    "videoId": "iUW7J5gvbm4",
+    "video_type": "patient story",
+    "name": "Madison",
+    "age": null,
+    "sex": "Female",
+    "location": "Round Rock",
+    "symptoms": [
+      "Clumsiness",
+      "Off balance",
+      "Uncoordinated",
+      "Difficulty walking",
+      "Spinal cord narrowness",
+      "Affected balance",
+      "Coordination issues",
+      "Speech issues",
+      "Affects heart and muscles"
+    ],
+    "medicalHistoryOfPatient": [
+      "Diagnosed with ataxia",
+      "Friedreich's Ataxia"
+    ],
+    "familyMedicalHistory": [
+      "Parents have a mutated gene affecting frataxin"
+    ],
+    "challengesFacedDuringDiagnosis": [
+      "Misunderstading initial clue of symptoms as clumsiness",
+      "Emotional distress",
+      "Avoidance of diagnosis",
+      "Delayed acceptance",
+      "Emotional breakdown",
+      "Struggling with identity change post diagnosis",
+      "Struggled with other personal adjustments after diagnosis"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "b34fFmD4LB4",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [],
+    "medicalHistoryOfPatient": [],
+    "familyMedicalHistory": [],
+    "challengesFacedDuringDiagnosis": [],
+    "key_opinion": null
+  },
+  {
+    "videoId": "YljO7ygvJfM",
+    "video_type": "patient story",
+    "name": "Andrew",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [],
+    "medicalHistoryOfPatient": [],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "gnJ0GEcJVYE",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "D7jUR_bt2SI",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [],
+    "medicalHistoryOfPatient": [],
+    "familyMedicalHistory": [],
+    "challengesFacedDuringDiagnosis": [],
+    "key_opinion": null
+  },
+  {
+    "videoId": "hrBgJbRxEHQ",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "qUrpxk0LKjw",
+    "video_type": "KOL interview",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "The transcript includes insights into current and potential treatments for rare diseases, focusing on the role of gene therapy, its challenges, and advancements. It covers the development and efficacy of different delivery systems for gene therapy and discusses the complexities of disease management, the cost implications, limitations of existing therapies, and future directions in treatment approaches."
+  },
+  {
+    "videoId": "4WEfC8XU6cM",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "9txGW8ApCIU",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "gGAhCIouHTs",
+    "video_type": "KOL interview",
+    "name": "Professor Kimiskidis Vasilios",
+    "age": null,
+    "sex": null,
+    "location": "Thessaloniki, Greece",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Importance of a multidisciplinary approach in the care of Friedreich's Ataxia patients and the need for collaboration between pediatricians and adult neurologists to ensure smooth patient transition."
+  },
+  {
+    "videoId": "UcTkfzOD2aY",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "I-NcLSUBWBA",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": "Australia",
+    "symptoms": [
+      "fatigue",
+      "mood changes",
+      "anxiety",
+      "irritability",
+      "tiredness"
+    ],
+    "medicalHistoryOfPatient": [
+      "brain surgery or brain trauma"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "y9OkNVvrleo",
+    "video_type": "patient story",
+    "name": "Ruby",
+    "age": null,
+    "sex": "female",
+    "location": null,
+    "symptoms": [
+      "autism"
+    ],
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "YRcCkRpewh8",
+    "video_type": "patient story",
+    "name": "Maya",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "synesthesia"
+    ],
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "Using assistive technology to communicate"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "eynip6rRbKc",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "zzTBdh0Tuzw",
+    "video_type": "KOL interview",
+    "name": "Professor Richard Weird Martens",
+    "age": null,
+    "sex": null,
+    "location": "Oxford",
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Professor Richard Weird Martens and his team conduct research on Friedrich's Ataxia, a rare inherited neurological disease affecting movement and balance, to help thousands of children and adults living with this condition worldwide."
+  },
+  {
+    "videoId": "uxIPZBX3KQM",
+    "video_type": "patient story",
+    "name": "Deon",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "loss of ability to walk",
+      "physical disabilities"
+    ],
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "coming to terms with loss of ability to walk",
+      "adapting to life with a wheelchair"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "vbL-7oyUvEg",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "OKEoWHQKqCQ",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "Yo0DXScnePI",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "wNpDY9R9KoU",
+    "video_type": "patient story",
+    "name": "George",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "loss of motor skills",
+      "balance issues",
+      "out of breath"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with Friedreich's ataxia at age 29",
+      "no symptoms of heart condition associated with the disease"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "diagnosis at age 29 instead of earlier"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "pdvv0KN0rYQ",
+    "video_type": "patient story",
+    "name": "Kyle Bryant",
+    "age": null,
+    "sex": "Male",
+    "location": null,
+    "symptoms": [],
+    "medicalHistoryOfPatient": [
+      "Friedreich's ataxia"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [],
+    "key_opinion": null
+  },
+  {
+    "videoId": "YQFQ919ZgRg",
+    "video_type": "patient story",
+    "name": "Lan",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "muscle degeneration",
+      "nerve issues",
+      "falling over"
+    ],
+    "medicalHistoryOfPatient": [
+      "Frederick's ataxia",
+      "hospitalized in critical condition"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "uncertain of the situation",
+      "critical condition"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "JdnbCbyBxDI",
+    "video_type": "patient story",
+    "name": "Matt Lafleur",
+    "age": 34,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "wonky voice",
+      "struggles with dexterity",
+      "clumsiness",
+      "difficulty with daily tasks",
+      "frustration with physical limitations",
+      "feelings of panic"
+    ],
+    "medicalHistoryOfPatient": [
+      "Diagnosed with Friedreich's ataxia at age 11"
+    ],
+    "familyMedicalHistory": [
+      "Parents felt guilty for having the gene"
+    ],
+    "challengesFacedDuringDiagnosis": [
+      "Delayed diagnosis despite having flat feet checked by a podiatrist",
+      "Struggled with physical activities and sports as a child",
+      "Emotionally difficult to process the prognosis of being in a wheelchair in late teens",
+      "Parents were heartbroken by the diagnosis"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "81QyPBSwVmI",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "LmHnqMv9diA",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "pain",
+      "slurred voice"
+    ],
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "-bbg0yMpoJc",
+    "video_type": "patient story",
+    "name": null,
+    "age": 27,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "Progressive",
+      "Debilitating",
+      "Muscle wasting"
+    ],
+    "medicalHistoryOfPatient": [
+      "Diagnosed with Friedreich's ataxia at age 10",
+      "Born with the disability"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "No treatment or cure available initially",
+      "Acceptance of a potentially shortened lifespan"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "iXvJwpbt_N8",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "OpAyqzqaD9w",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "k9mxKKqaKqE",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "XAjHNII11hQ",
+    "video_type": "patient story",
+    "name": "Al",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "shaking",
+      "tremor",
+      "debilitating during the day",
+      "concentration is off"
+    ],
+    "medicalHistoryOfPatient": [
+      "medication not working effectively",
+      "tablet that takes effect in 15 minutes and lasts for about three hours"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "limited ability to perform tasks due to tremors",
+      "difficulty answering phone due to tremor",
+      "medication limitations (only take three times a day)"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "dt1MrisG1Vg",
+    "video_type": "patient story",
+    "name": "Gunner",
+    "age": 6,
+    "sex": null,
+    "location": "Houston, Texas",
+    "symptoms": [
+      "nervous shake",
+      "unbalanced",
+      "wobbly gait",
+      "stumbling",
+      "tripping",
+      "walking into walls"
+    ],
+    "medicalHistoryOfPatient": [
+      "allergy problems",
+      "sinus problems",
+      "tubes in ears",
+      "adenoids removed",
+      "congestion",
+      "carrier of muscular dystrophy gene"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "rare diagnosis at a young age",
+      "misdiagnosis of muscular dystrophy",
+      "received diagnosis over the phone in a public place",
+      "lack of clear initial prognosis",
+      "limited knowledge about the condition",
+      "emotional distress"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "zViExRVTi6I",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "trouble with balance",
+      "trouble walking",
+      "coordination issues"
+    ],
+    "medicalHistoryOfPatient": [
+      "freeder ATT taxia (FA)"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "not apparent that I have a disability",
+      "trouble explaining FA to others",
+      "was not able to use bottom locker",
+      "difficulty fitting in socially",
+      "loss of friends",
+      "tired after school due to physical effort",
+      "difficulty in attending school dances"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "oXEvv8o3ZQ0",
+    "video_type": "patient story",
+    "name": "Natalie",
+    "age": null,
+    "sex": null,
+    "location": "North Florida",
+    "symptoms": [
+      "gait was off",
+      "clumsy",
+      "back pain",
+      "severe arm pain",
+      "odd knot"
+    ],
+    "medicalHistoryOfPatient": [
+      "Friedreich's Ataxia",
+      "Scoliosis",
+      "Harrington rods placement",
+      "back surgery",
+      "broken radius with unhealed fracture",
+      "bone infection",
+      "blood clot"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "complained of feeling like a guinea pig during early neurologist visits",
+      "destruction of the family home due to hurricane",
+      "homes were destroyed and family separated",
+      "lack of accommodation for wheelchair in the new house",
+      "reaching out to resources like Habitat for Humanity without assistance"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "wnqKUchBLAY",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "-JVISlIxMtA",
+    "video_type": "patient story",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "disability"
+    ],
+    "medicalHistoryOfPatient": [
+      "disability"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "feeling of being perceived as faking illness"
+    ],
+    "key_opinion": null
+  }
+]

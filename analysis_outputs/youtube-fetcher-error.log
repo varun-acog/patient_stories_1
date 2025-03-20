@@ -1,0 +1,9 @@
+ Container video_analysis-postgres-1  Running
+[ERROR] [DEBUG] Initializing YouTube service with API key: Key provided
+[ERROR] 🔍 Fetching all available videos for "Friedreich ataxia" with options: {"startDate":"2025-03-19","endDate":"2025-03-19","yearsBack":5}
+[ERROR] [DEBUG] Full date range: 2025-03-19T00:00:00.000+00:00 to 2025-03-19T00:00:00.000+00:00
+[ERROR] ✅ Completed all date chunks. Total videos fetched: 0
+[ERROR] ❗ No videos found across all date chunks. Check query, API limits, or date range.
+[INFO] Found 0 videos for "Friedreich ataxia"
+[INFO] ✅ Wrote full video metadata to analysis_outputs/Friedreich ataxia-metadata.json
+[WARN] No video IDs found; wrote empty array to analysis_outputs/Friedreich ataxia-videoids.json

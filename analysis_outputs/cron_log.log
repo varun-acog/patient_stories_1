@@ -1,0 +1,4 @@
+[2025-03-20 00:15:01] Starting daily video pipeline update
+[2025-03-20 00:15:01] Starting PostgreSQL...
+no configuration file provided: not found
+[2025-03-20 00:15:01] Failed to start PostgreSQL

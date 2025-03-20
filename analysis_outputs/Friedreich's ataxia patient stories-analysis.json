@@ -1,0 +1,122 @@
+[
+  {
+    "videoId": "NWTDgxSzK-U",
+    "video_type": "KOL interview",
+    "name": "Jenna",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": "Our findings suggest that exercise can prevent the onset of the disease. We don’t know whether exercise will reverse the damage that is caused by the disease in the late stage."
+  },
+  {
+    "videoId": "5hTO1J9N-PE",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "yB1V03gFhz8",
+    "video_type": "patient story",
+    "name": "not mentioned",
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": [
+      "flare up with stiff person syndrome"
+    ],
+    "medicalHistoryOfPatient": [
+      "stiff person syndrome",
+      "medication adjusted (increased one medication and decreased another)"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "had a major flare-up"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "53q71VSPgPI",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  },
+  {
+    "videoId": "U4A2O6ix0P4",
+    "video_type": "patient story",
+    "name": "Frankie",
+    "age": 22,
+    "sex": null,
+    "location": "Los Angeles",
+    "symptoms": [
+      "extreme fatigue",
+      "loss of coordination",
+      "slurred speech",
+      "diabetes",
+      "scoliosis",
+      "heart condition"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with Friedreich's ataxia at age 22"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "need for a wheelchair due to mobility challenges",
+      "financial constraints related to wheelchair costs"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "0Q0Tuy_YpRE",
+    "video_type": "patient story",
+    "name": null,
+    "age": 57,
+    "sex": null,
+    "location": "Richmond",
+    "symptoms": [
+      "issues with hands",
+      "attacks",
+      "fatigue"
+    ],
+    "medicalHistoryOfPatient": [
+      "diagnosed with MS at age 38"
+    ],
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": [
+      "life changes and sacrifices",
+      "early attacks were frequent",
+      "physical and mental fatigue"
+    ],
+    "key_opinion": null
+  },
+  {
+    "videoId": "mpPlO4TGifs",
+    "video_type": "Informational",
+    "name": null,
+    "age": null,
+    "sex": null,
+    "location": null,
+    "symptoms": null,
+    "medicalHistoryOfPatient": null,
+    "familyMedicalHistory": null,
+    "challengesFacedDuringDiagnosis": null,
+    "key_opinion": null
+  }
+]
